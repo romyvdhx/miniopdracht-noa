@@ -2,9 +2,10 @@
 
 ## Maak een nieuwe branch aan
 
-### vertell wat je heb gedaan in de vakatie
+### Vertel wat je heb gedaan in de vakantie
 
 Merge de branch naar de main
 push de changes naar GitHub
 
-### Andwordt:
+### Antwoord:  
+Ik ben naar de Taylor Swift Eras Tour Movie geweest 
